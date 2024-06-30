@@ -27,7 +27,7 @@ Es una plataforma integral de computación en la nube ofrecida por Google que pr
 
 **Permisos:** `Roles` modo editor en IAM y Administración, para todas las áreas involucradas en el proyecto. 
 
-**API´s utilizadas:** puede verlas [AQUÍ](https://github.com/leymilena2531/Proyecto-Final-Distribuidora-Oasis-/blob/master/Ingenieria%20de%20Datos/API.md)
+**API´s utilizadas:** puede verlas [AQUÍ](https://github.com/MFlorenciaLoCascio/Distribuidora_Oasis_ProyectoFinalHenry/blob/master/Ingenieria%20de%20Datos/APIs%20Utilizadas.md)
 
 ## Recursos utilizados dentro de Cloud:
 
@@ -49,7 +49,7 @@ El pipeline de Distribuidora Oasis automatiza los datos asegurando que los datos
 
 ## 🛢️ EXTRACCIÓN: 
 
-Los archivos CSV almacenados en Google Drive, que salieron de la limpieza de datos por el Área de Ánálisis de Datos(link), se importaron a [Google Cloud Platform](https://cloud.google.com/?_gl=1*6gcnrv*_up*MQ..&gclid=CjwKCAjw-O6zBhASEiwAOHeGxXc4YZx6SNH1EHwvQgGmacSJnslZSK8XEbOaI-IYDAFV-nnJz4emIxoCwYcQAvD_BwE&gclsrc=aw.ds&hl=es_419), en Datawarehouse BigQuery, utilizando código de Python en [Google Colab](https://colab.research.google.com/drive/1j-HrMwga8oIaSLumfFZ1qPX-bo347MU1) 
+Los archivos CSV almacenados en Google Drive, que salieron de la limpieza de datos por el [Área de Ánálisis de Datos](https://github.com/MFlorenciaLoCascio/Distribuidora_Oasis_ProyectoFinalHenry/tree/master/EDA), se importaron a [Google Cloud Platform](https://cloud.google.com/?_gl=1*6gcnrv*_up*MQ..&gclid=CjwKCAjw-O6zBhASEiwAOHeGxXc4YZx6SNH1EHwvQgGmacSJnslZSK8XEbOaI-IYDAFV-nnJz4emIxoCwYcQAvD_BwE&gclsrc=aw.ds&hl=es_419), en Datawarehouse BigQuery, utilizando código de Python en [Google Colab](https://colab.research.google.com/drive/1j-HrMwga8oIaSLumfFZ1qPX-bo347MU1) 
 
 ![Pipeline drawio (3) 1](https://github.com/leymilena2531/Proyecto-Final-Distribuidora-Oasis-/assets/139195222/f7592c5f-a369-41fd-afa6-7c8c0f7800c3)
 
