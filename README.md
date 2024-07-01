@@ -1,13 +1,14 @@
 
 ![Imagen de WhatsApp 2024-06-21 a las 09 19 47_bd582f6c](https://github.com/leymilena2531/Proyecto-Final-Distribuidora-Oasis-/assets/168442686/c64ed18f-7186-4628-865e-a1a0e57eb0e4)
+![distribuidora oasis](https://github.com/leymilena2531/Proyecto-Final-Distribuidora-Oasis-/assets/114260905/9df80b0b-f31c-44a7-ba71-d06d8825a5a6)
 
 ---
 
 
 # 📊 Optimización de Inventario para Minimizar Costos y Maximizar Rentabilidad
 
-## Consultoría: Soluciones Analíticas
-
+## Consultora: Soluciones Analíticas
+## Empresa a analizar: Distribuidora Oasis
 ## Integrantes: 
 
 * Vilma Daniela Ferrer - Analista de Datos
@@ -16,16 +17,8 @@
 * Leidy milena Loaiza - Analista de Datos
 * Rosa Graciela Gómez Jiménez - Analista de Datos
 
-
-
-<h2> Distribuidora Oasis, es una empresa que vende bebidas alcoholicas. </h2> 
-
-![distribuidora oasis](https://github.com/leymilena2531/Proyecto-Final-Distribuidora-Oasis-/assets/114260905/9df80b0b-f31c-44a7-ba71-d06d8825a5a6)
- 
-Mediante el análisis de datos y la implementación de modelos de optimización, buscamos reducir costos, minimizar pérdidas de ventas y mejorar la experiencia del cliente.
-
 ## Descripción del Proyecto
-Somos una consultora especializada en Analisis de Datos, <b>"Soluciones Analíticas"</b>, cliente Distribuidora Oasis nuestro cliente a quien vamos analizar datos de inventario para optimizar la gestión de la empresa y maximizar su rentabilidad. El análisis permitirá identificar patrones de demanda y tomar decisiones informadas sobre políticas de reposición y coordinación de la cadena de suministro. 
+Somos una consultora especializada en Analisis de Datos, al cual vamos a analizar datos de inventario para optimizar la gestión de la empresa y maximizar su rentabilidad. El análisis permitirá identificar patrones de demanda y tomar decisiones informadas sobre políticas de reposición y coordinación de la cadena de suministro para nuestro cliente Distribuidora Oasis. 
 
 <h2>El Desafio 🚀</h2>   
 El principal desafío al que nos enfrentamos es implementar un sistema de gestión de inventario eficiente. Sin embargo, existen obstáculos significativos que debemos superar. Uno de ellos es la falta de conocimiento profundo sobre la gestión de inventarios. La información relevante se encuentra dispersa en diferentes archivos de Excel, y no existe una uniformidad en los datos.
